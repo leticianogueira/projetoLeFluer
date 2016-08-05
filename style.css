@@ -121,7 +121,8 @@ img {
 	width: 100%;
   display: block;
   margin: 0 auto;
-}
+	}
+
 
 img.full-width {
 	width: 100%;
@@ -184,6 +185,11 @@ div.demonst {
 	float: left;
 	font-size: 28px;
 	margin-left: 13%;
+}
+
+div.circulo:hover {
+	color:#ea8181;
+
 }
 
 div.demonst .smile h3 {
