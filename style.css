@@ -121,17 +121,19 @@ img {
 	width: 100%;
   display: block;
   margin: 0 auto;
-}
+	}
+
 
 img.full-width {
 	width: 100%;
 	display: block;
   margin: 0;
+	margin-top: 72px;
 }
 
 .article-content {
 	width: 100%;
-	margin: 50px auto;
+	margin: auto;
 	text-align: center;
 }
 
@@ -155,11 +157,12 @@ h2 {
   font-size: 1.8em;
   padding-bottom: 1.2em;
 	color: #403e3e;
+	margin-top: -33px;
 }
 
 b {
   font-weight: bold;
-	color:#efada3
+	color:#474545
 }
 
 div {
@@ -184,6 +187,11 @@ div.demonst {
 	margin-left: 13%;
 }
 
+div.circulo:hover {
+	color:#ea8181;
+
+}
+
 div.demonst .smile h3 {
 	float: left;
 	color:#3c3a3a;
@@ -201,6 +209,8 @@ div.demonst .smile p {
 	line-height: 18px;
 	color:#403e3e;
 	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: -webkit-center;
 }
 
 div.smile {
@@ -210,7 +220,65 @@ div.smile {
  margin: 0 22px;
 }
 
+footer {
+	background-color: #403e3e;
+	border-top: 4px solid #efada3;
+	margin-top: 500px;
+}
 
+.more-info {
+	width: 400px;
+	margin-left: 29px;
+}
+
+.footer-title {
+  font-size: 17px;
+  margin-top: 7px;
+  color: #fff;
+	padding-bottom: 1px;
+	width: 119px;
+ }
+
+ .more-info i {
+	font-size:25px;
+ 	color: #efada3;
+	float: left;
+
+}
+
+ ul h4 {
+	font-size: 13px;
+	margin: 12px 0;
+	font-family: 'Open Sans', sans-serif;
+	color: #efada3;
+	margin-right: 223px;
+
+}
+ ul h4:hover {
+	 color: #fff;
+ }
+
+ ul h5 {
+  font-size: 13px;
+  margin: 12px 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #efada3;
+  margin-right: 270px;
+}
+
+ul h5:hover {
+	color: #fff;
+}
+
+ul p {
+	font-size: 13px;
+  margin: 12px 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #9e9e9e;;
+  margin-right: 270px;
+	width: 500px;
+
+}
 
 
 
