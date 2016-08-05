@@ -58,7 +58,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  background-color: rgba(242,191,183,0.49);
+  background-color: #efada3;
   padding: 1em 0;
 	z-index: 1;
 }
@@ -70,7 +70,7 @@ nav {
 .main li {
 	display: inline;
 	position: relative;
-	padding: 1.5em;
+	padding: 1.7em;
 }
 
 .main li:first-child {
@@ -81,9 +81,9 @@ ul.submenu {
 	display: none;
 	width: 160px;
 	position: absolute;
-	top: 4.4em;
-	left: 0;
-	background-color: rgba(242, 191, 183, 0.37);
+	top: 4.3em;
+	left: -11px;
+	background-color: rgba(239, 173, 163, 0.61);
 	padding: 1em;
 }
 
@@ -110,11 +110,11 @@ a {
 }
 
 nav a:hover {
-  color: #efada3;
+  color: #fff;
 }
 
 nav a.active {
-  color: #ffffff;
+  color: #fff;
 }
 
 img {
@@ -146,14 +146,14 @@ section.secondary-content img {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 3em;
   height: 24%;
 	color:#403e3e;
 }
 
 h2 {
   font-size: 1.8em;
-  padding-bottom: 1.3em;
+  padding-bottom: 1.2em;
 	color: #403e3e;
 }
 
