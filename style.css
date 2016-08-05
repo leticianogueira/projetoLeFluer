@@ -212,6 +212,31 @@ div.smile {
 
 
 
+div.more-info {
+	width: 65px;
+
+}
+
+ div.more-info i {
+	font-size:25px; 
+ 	color: #efada3;
+	 }
+
+ footer {
+     background-color: #403e3e;
+     border-top: 4px solid #efada3;
+     margin-top: 120px;
+	 }
+
+.footer-title {
+	   font-size: 16px;
+	   color: #fff;
+	   padding-bottom: 20px;
+		 width: 147px;
+	 }
+
+
+
 
 
 
