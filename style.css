@@ -212,35 +212,35 @@ div.smile {
  margin: 0 22px;
 }
 
-
-div.more-info {
-	width: 65px;
+footer {
+	background-color: #403e3e;
+	border-top: 4px solid #efada3;
+	margin-top: 500px;
 }
 
- div.more-info i {
+.more-info {
+	width: 400px;
+}
+
+.footer-title {
+  font-size: 18px;
+  margin-top: 7px;
+  color: #fff;
+	padding-bottom: 10px;
+	width: 163px;
+ }
+
+ .more-info i {
 	font-size:25px;
  	color: #efada3;
 }
 
- footer {
-  	background-color: #403e3e;
-     border-top: 4px solid #efada3;
-     margin-top: 500px;
-	 }
-
-.footer-title {
-	   font-size: 18px;
-		 margin-top: 7px;
-	   color: #fff;
-	   padding-bottom: 10px;
-		 width: 163px;
-	 }
-
-
-
-
-
-
+ ul h4 {
+	font-size: 15px;
+	margin: 10px 0;
+	font-family: 'Open Sans', sans-serif;
+	color: #efada3;
+}
 
 
 
